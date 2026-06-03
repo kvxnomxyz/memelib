@@ -4,4 +4,4 @@ The Meme Library
 
 
 ### Note:
-**Submit memes in [Issues](github.com/kvxnomxyz/memelib/issues)**
+**Submit memes in [Issues](https://github.com/kvxnomxyz/memelib/issues)**
